@@ -476,7 +476,7 @@ The web interface will be built using React.js for a dynamic and responsive user
 
 ---
 
-**best practices for writing Git commit messages**, especially when working in teams or open-source projects:
+cd "c:\FileNick\Vibe Coding\DePaws" && git remote add origin https://github.com/NickDabizaz/DePaws.git**best practices for writing Git commit messages**, especially when working in teams or open-source projects:
 
 ---
 
